@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+echo \
+"Um texto random, tudo bem com voce?" 
+#PULANDO LINHA
+echo -e "Vinicius arch is \nhere"
+#modo tab
+echo -e "Eu gosto de \thentai!"
+#vertical modo
+echo -e "Hentai e coisa de \vpunheteiro."
