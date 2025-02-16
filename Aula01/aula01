@@ -2,8 +2,8 @@
 echo \
 "Um texto random, tudo bem com voce?" 
 #PULANDO LINHA
-echo -e "Vinicius arch is \nhere"
+echo -e "Vinicius Soares is \nAprendendo."
 #modo tab
-echo -e "Eu gosto de \thentai!"
+echo -e "Eu gosto de \tanimes!"
 #vertical modo
-echo -e "Hentai e coisa de \vpunheteiro."
+echo -e "Anime e coisa de \vCrianca."
