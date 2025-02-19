@@ -23,7 +23,7 @@ PS3="Selecione: "
 #	esac
 #done
 
-# Forma Usado Variaveis Especiais com $REPLY
+# Forma Usando Variaveis Especiais com $REPLY
 select nome in "Vinicius" "Soares" "sair"; do
 	case "$REPLY" in
 		1) echo "Voce Selecinou $nome"  ;;
