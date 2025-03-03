@@ -1,2 +1,0 @@
-########'ID:NOME SOBRENOME:CPF:DDD:TELEFONE'########
-2:vinicius soares:000-000-000-01:00:000000000
